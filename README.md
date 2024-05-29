@@ -1,22 +1,3 @@
-<div align="center">
-  <h3> 💥🔥 Hey there! I'm Vue-PengHong.</h3>
-
-AllData前端架构师
-
-一站式大数据平台AllData前端负责人
-
-负责规划与设计开源项目AllData前端
-
-熟悉MVVM框架Vue、TypeScript
-
-熟悉HTML、CSS、JS、小程序开发
-
-熟悉NodeJS、Http、Nginx、Webpack
-
-熟悉Web、H5、Java后台开发、MySQL
-
-</div>
-
 # 数据中台
 
 ### [官方文档](https://alldata-document.readthedocs.io/zh/latest/README.html) ｜ [安装文档](https://alldata-document.readthedocs.io/zh/latest/installDeploy/index.html)
