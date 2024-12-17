@@ -1,4 +1,4 @@
-[## 数据中台商业版
+## 数据中台商业版
 
 ```
 AllData数据中台是可定义数据中台，上层是Wujie微前端架构，底座是可插拔的后端架构。
@@ -27,4 +27,4 @@ AllData商业版功能有8个菜单功能，其中菜单2-8为集成大数据组
 
 未来规划： 2024年12月底会发布目前已经集成的30个新的开源项目框架，敬请期待。
 ```
-](https://github.com/alldatacenter/alldata/blob/master/README.md)
+https://github.com/alldatacenter/alldata/blob/master/README.md
